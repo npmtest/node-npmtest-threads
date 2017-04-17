@@ -1,0 +1,58 @@
+<svg height="878" width="720" xmlns="http://www.w3.org/2000/svg">
+<rect height="878" fill="#555" width="720"></rect>
+<text fill="#7f7" font-family="Courier New" font-size="12" xml:space="preserve">
+<tspan x="10" y="26">  0.  2017-04-17 12:53:50 +0000   171166 bytes  .</tspan>
+<tspan x="10" y="42">  1.  2017-04-17 12:53:50 +0000     1060 bytes  CHANGELOG.md</tspan>
+<tspan x="10" y="58">  2.  2017-04-17 12:53:50 +0000     1078 bytes  LICENSE</tspan>
+<tspan x="10" y="74">  3.  2017-04-17 12:53:50 +0000     9430 bytes  README.md</tspan>
+<tspan x="10" y="90">  4.  2017-04-17 12:53:50 +0000      526 bytes  bower.json</tspan>
+<tspan x="10" y="106">  5.  2017-04-17 12:53:50 +0000     1691 bytes  dist/slave.js</tspan>
+<tspan x="10" y="122">  6.  2017-04-17 12:53:50 +0000     1122 bytes  dist/slave.min.js</tspan>
+<tspan x="10" y="138">  7.  2017-04-17 12:53:50 +0000    40588 bytes  dist/threads.browser.js</tspan>
+<tspan x="10" y="154">  8.  2017-04-17 12:53:50 +0000    20481 bytes  dist/threads.browser.min.js</tspan>
+<tspan x="10" y="170">  9.  2017-04-17 12:53:50 +0000     3750 bytes  gulpfile.js</tspan>
+<tspan x="10" y="186"> 10.  2017-04-17 12:53:50 +0000     2200 bytes  karma.conf.js</tspan>
+<tspan x="10" y="202"> 11.  2017-04-17 12:53:50 +0000      911 bytes  lib/bundle.browser.js</tspan>
+<tspan x="10" y="218"> 12.  2017-04-17 12:53:50 +0000      757 bytes  lib/bundle.browser.js.map</tspan>
+<tspan x="10" y="234"> 13.  2017-04-17 12:53:50 +0000     1873 bytes  lib/config.js</tspan>
+<tspan x="10" y="250"> 14.  2017-04-17 12:53:50 +0000     2900 bytes  lib/config.js.map</tspan>
+<tspan x="10" y="266"> 15.  2017-04-17 12:53:50 +0000      193 bytes  lib/defaults.browser.js</tspan>
+<tspan x="10" y="282"> 16.  2017-04-17 12:53:50 +0000      350 bytes  lib/defaults.browser.js.map</tspan>
+<tspan x="10" y="298"> 17.  2017-04-17 12:53:50 +0000      454 bytes  lib/defaults.js</tspan>
+<tspan x="10" y="314"> 18.  2017-04-17 12:53:50 +0000      735 bytes  lib/defaults.js.map</tspan>
+<tspan x="10" y="330"> 19.  2017-04-17 12:53:50 +0000      181 bytes  lib/defaults.node.js</tspan>
+<tspan x="10" y="346"> 20.  2017-04-17 12:53:50 +0000      290 bytes  lib/defaults.node.js.map</tspan>
+<tspan x="10" y="362"> 21.  2017-04-17 12:53:50 +0000     1151 bytes  lib/index.js</tspan>
+<tspan x="10" y="378"> 22.  2017-04-17 12:53:50 +0000      852 bytes  lib/index.js.map</tspan>
+<tspan x="10" y="394"> 23.  2017-04-17 12:53:50 +0000     3142 bytes  lib/job.js</tspan>
+<tspan x="10" y="410"> 24.  2017-04-17 12:53:50 +0000     2801 bytes  lib/job.js.map</tspan>
+<tspan x="10" y="426"> 25.  2017-04-17 12:53:50 +0000     4909 bytes  lib/pool.js</tspan>
+<tspan x="10" y="442"> 26.  2017-04-17 12:53:50 +0000     5200 bytes  lib/pool.js.map</tspan>
+<tspan x="10" y="458"> 27.  2017-04-17 12:53:50 +0000     1132 bytes  lib/worker.browser/slave-code-uri.js</tspan>
+<tspan x="10" y="474"> 28.  2017-04-17 12:53:50 +0000     1857 bytes  lib/worker.browser/slave-code-uri.js.map</tspan>
+<tspan x="10" y="490"> 29.  2017-04-17 12:53:50 +0000     1771 bytes  lib/worker.browser/slave-code.js</tspan>
+<tspan x="10" y="506"> 30.  2017-04-17 12:53:50 +0000     7704 bytes  lib/worker.browser/worker.js</tspan>
+<tspan x="10" y="522"> 31.  2017-04-17 12:53:50 +0000    11297 bytes  lib/worker.browser/worker.js.map</tspan>
+<tspan x="10" y="538"> 32.  2017-04-17 12:53:50 +0000      463 bytes  lib/worker.js</tspan>
+<tspan x="10" y="554"> 33.  2017-04-17 12:53:50 +0000      742 bytes  lib/worker.js.map</tspan>
+<tspan x="10" y="570"> 34.  2017-04-17 12:53:50 +0000     2057 bytes  lib/worker.node/slave.js</tspan>
+<tspan x="10" y="586"> 35.  2017-04-17 12:53:50 +0000     3573 bytes  lib/worker.node/slave.js.map</tspan>
+<tspan x="10" y="602"> 36.  2017-04-17 12:53:50 +0000     4523 bytes  lib/worker.node/worker.js</tspan>
+<tspan x="10" y="618"> 37.  2017-04-17 12:53:50 +0000     5547 bytes  lib/worker.node/worker.js.map</tspan>
+<tspan x="10" y="634"> 38.  2017-04-17 12:53:50 +0000     3460 bytes  package.json</tspan>
+<tspan x="10" y="650"> 39.  2017-04-17 12:53:50 +0000      314 bytes  src/bundle.browser.js</tspan>
+<tspan x="10" y="666"> 40.  2017-04-17 12:53:50 +0000     1265 bytes  src/config.js</tspan>
+<tspan x="10" y="682"> 41.  2017-04-17 12:53:50 +0000      105 bytes  src/defaults.browser.js</tspan>
+<tspan x="10" y="698"> 42.  2017-04-17 12:53:50 +0000      402 bytes  src/defaults.js</tspan>
+<tspan x="10" y="714"> 43.  2017-04-17 12:53:50 +0000       88 bytes  src/defaults.node.js</tspan>
+<tspan x="10" y="730"> 44.  2017-04-17 12:53:50 +0000      378 bytes  src/index.js</tspan>
+<tspan x="10" y="746"> 45.  2017-04-17 12:53:50 +0000     1251 bytes  src/job.js</tspan>
+<tspan x="10" y="762"> 46.  2017-04-17 12:53:50 +0000     2234 bytes  src/pool.js</tspan>
+<tspan x="10" y="778"> 47.  2017-04-17 12:53:50 +0000      865 bytes  src/worker.browser/slave-code-uri.js</tspan>
+<tspan x="10" y="794"> 48.  2017-04-17 12:53:50 +0000     1691 bytes  src/worker.browser/slave.js.txt</tspan>
+<tspan x="10" y="810"> 49.  2017-04-17 12:53:50 +0000     5275 bytes  src/worker.browser/worker.js</tspan>
+<tspan x="10" y="826"> 50.  2017-04-17 12:53:50 +0000      413 bytes  src/worker.js</tspan>
+<tspan x="10" y="842"> 51.  2017-04-17 12:53:50 +0000     1658 bytes  src/worker.node/slave.js</tspan>
+<tspan x="10" y="858"> 52.  2017-04-17 12:53:50 +0000     2476 bytes  src/worker.node/worker.js</tspan>
+</text>
+</svg>
