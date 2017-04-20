@@ -1,4 +1,7 @@
-# test coverage for  [threads (v0.7.2)](https://github.com/andywer/thread.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-threads.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-threads) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-threads.svg)](https://travis-ci.org/npmtest/node-npmtest-threads)
+# npmtest-threads
+
+#### basic test coverage for  [threads (v0.7.2)](https://github.com/andywer/thread.js#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-threads.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-threads) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-threads.svg)](https://travis-ci.org/npmtest/node-npmtest-threads)
+
 #### Easy to use, yet powerful multi-threading library for node.js and the browser!
 
 [![NPM](https://nodei.co/npm/threads.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/threads)
